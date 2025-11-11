@@ -43,10 +43,10 @@ Aplikasi ini dikembangkan sebagai tugas mata kuliah **Pemrograman Berorientasi O
 2. Membuat jFrame Login
 <img width="500" height="425" alt="image" src="https://github.com/user-attachments/assets/3a01c103-d689-4392-97eb-a94219258ebe" />
 
-3. Membuat jDialoh Buat Akun
+3. Membuat jDialog Buat Akun
 <img width="500" height="425" alt="image" src="https://github.com/user-attachments/assets/437f25b5-e62a-45f7-b74e-e2ec0f26efa3" />
 
-4. hdd
+4.Membuat jDialog Ubah Password
 <img width="500" height="425" alt="image" src="https://github.com/user-attachments/assets/bd48ba9a-169f-4e0d-90d9-dc26c961065f" />
 
 ---
